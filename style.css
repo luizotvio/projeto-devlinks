@@ -74,8 +74,8 @@ ul li a{
     align-items: center;
     justify-content: center;
     padding: 16px 24px;
-    background: rgba(255, 255, 255, 0.1);
-    border: 1px solid rgba(255, 255, 255, 0.5);
+    background: var(--surface-color);
+    border: 1px solid var(--stroke-color);
     border-radius: 10px;
     backdrop-filter: blur(4px);
     -webkit-backdrop-filter: blur(4px);
