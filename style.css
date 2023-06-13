@@ -10,3 +10,17 @@ body {
     /*background: color image repeat position/size em um única linha de código*/
     background: url(./assets/bg-mobile-dark.jpg) no-repeat top center/cover;
 }
+
+#container {
+    width: 360px;
+    height: 712px;
+    margin: auto;
+}
+
+#profile {
+    text-align: center;
+}
+
+#profile img {
+    width: 112px;
+}
