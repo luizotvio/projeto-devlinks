@@ -8,12 +8,16 @@
 
 :root {
     --text-color: #fff;
-    --bg-url: url(./assets/bg-mobile-dark.jpg)
+    --bg-url: url(./assets/bg-mobile-dark.jpg);
+    --stroke-color: rgba(255, 255, 255, 0.5);
+    --surface-color: rgba(255, 255, 255, 0.1);
 }
 
 .light {
     --text-color: #000;
-    --bg-url: url(./assets/bg-mobile-light.jpg)
+    --bg-url: url(./assets/bg-mobile-light.jpg);
+    --stroke-color: rgba(0, 0, 0, 0.5);
+    --surface-color: rgba(0, 0, 0, 0.05);
 }
 
 body {
